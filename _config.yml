@@ -5,7 +5,7 @@ description: >
   My portfolio contains technical writing samples, a list of contributions to open-source projects and some articles on Medium.
 lang: en-US
 
-baseurl: "/myportfolio" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: carmelag.github.io
 git_address: https://github.com/carmelag/myportfolio
 git_edit_address: https://github.com/carmelag/myportfolio/blob/gh-pages
