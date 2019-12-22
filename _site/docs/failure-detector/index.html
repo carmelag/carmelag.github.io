@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/portfolio/assets/css/main.css">
+    <link rel="stylesheet" href="/portfolio/assets/css/font-awesome.min.css">
+
+    <link rel="shortcut icon" href="/portfolio/favicon.ico?1">
+    <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Failure detector | Carmela Greco</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Failure detector" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The Consensu Problem, within an asynchonous system, needs a Failure Detection system, that understands if a process failed, or if it was simply slower than usual to reply." />
+<meta property="og:description" content="The Consensu Problem, within an asynchonous system, needs a Failure Detection system, that understands if a process failed, or if it was simply slower than usual to reply." />
+<link rel="canonical" href="http://localhost:4000/portfolio/docs/failure-detector/" />
+<meta property="og:url" content="http://localhost:4000/portfolio/docs/failure-detector/" />
+<meta property="og:site_name" content="Carmela Greco" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-12-04T00:28:38+01:00" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/portfolio/docs/failure-detector/","headline":"Failure detector","dateModified":"2019-12-04T00:28:38+01:00","datePublished":"2019-12-04T00:28:38+01:00","description":"The Consensu Problem, within an asynchonous system, needs a Failure Detection system, that understands if a process failed, or if it was simply slower than usual to reply.","@type":"WebPage","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <link rel="alternate" type="application/rss+xml" title="Carmela Greco" href="http://localhost:4000/portfolio/feed.xml" />
+</head>
+
+
+<body>
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container navbar-container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+            <a class="navbar-brand" href="/portfolio/">
+                <span><i class="fa fa-hand-peace-o" aria-hidden="true"></i></span> Carmela Greco
+            </a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li  class="active" ><a href="/portfolio/docs/home/">Docs samples</a></li>
+                <li><a href="/portfolio/medium-list/">Articles on Medium</a></li>
+                <li><a href="/portfolio/github-list/">Contributions on Github</a></li>
+            </ul>
+            <div class="navbar-right">
+                <ul class="nav navbar-nav">
+                    <li><a href="/portfolio/contact/">Contacts</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+    <div class="page-content">
+        <div class="wrapper">
+            <div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
+            Introduction
+          </a>
+        </h4>
+      </div>
+      
+      
+      <div class="panel-collapse collapse" id="collapse-1" role="tabpanel" aria-label="Side Navigation">
+        <div class="list-group">
+          
+            
+            
+            <a class="list-group-item " href=""></a>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+            Consensus Problem
+          </a>
+        </h4>
+      </div>
+      
+      
+      <div class="panel-collapse" id="collapse-2" role="tabpanel" aria-label="Side Navigation">
+        <div class="list-group">
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/introduction-to-consensus/">Introduction to Consensus Problem</a>
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/consensus-algorithm/">Consensus Algorithm</a>
+          
+            
+            
+            <a class="list-group-item active" href="/portfolio/docs/failure-detector/">Failure detector</a>
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/communication-scheme/">Communication scheme</a>
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/fault-detection/">Fault detection</a>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+            Broadcast a Skype call with Mixlr
+          </a>
+        </h4>
+      </div>
+      
+      
+      <div class="panel-collapse collapse" id="collapse-3" role="tabpanel" aria-label="Side Navigation">
+        <div class="list-group">
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/mixlr-summary/">Summary</a>
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/mixlr-account/">Account creation</a>
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/mixlr-app-install/">Mixlr desktop application installation (Mac OS)</a>
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/mixlr-audiolink-plugin/">Audiolink plugin installation</a>
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/mixlr-skype-setup/">Skype setup</a>
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/mixlr-listen-caller/">Mixlr setup to listen to Skype caller</a>
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/mixlr-start-stop/">Broadcast start/stop</a>
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/mixlr-embed-player/">Skype setup</a>
+          
+            
+            
+            <a class="list-group-item " href="/portfolio/docs/mixlr-live-page/">Mixlr Live Page to listen to the broadcast</a>
+          
+        </div>
+      </div>
+    </div>
+  
+</div>
+
+    </div>
+
+    <div class="col-md-8">
+      <h1>Failure detector</h1>
+      <div id="markdown-content-container"><p>The Consensu Problem, within an asynchonous system, needs a Failure Detection system, that understands if a process failed, or if it was simply slower than usual to reply.</p>
+
+<p>In this project was included an angorithm that allows to understand whether and what process is not working. This algorithm makes the system partially synchronous.
+The Failure Detector (FD) is an internal module contained in each process, that will be called periodically and will return to the process the list of suspected processes.</p>
+
+<p><img src="../images/FD.jpg" alt="Failure detector" /></p>
+
+<p>FD will update the list of suspected processed after a time T.
+T value is really small, so that the precision of the list is comparable to run-time.</p>
+
+<p>During the execution, each process broadcasts a messagge to the other precesses to notify its activity. If a process don’t send any notification before a fixed timeout, it will be considered suspected and added to the suspected list. 
+The timeout time is equal to “T+D”:</p>
+
+<ul>
+  <li>T execution time</li>
+  <li>D maximum time registered for a message exchange</li>
+</ul>
+
+<p>This algorithm is called “eventually perfect falilure detector”. It’s based on a timeout and it ensures a Strong completeness and an eventual strong accuracy. 
+When there is a partial synchrony, the system is asynchornous at the beginning, but after a time t it becames synchornous. 
+Each process p holds a timeout for any other process within the system and sets it following the rule described above. 
+To calculate the time passed until then, the process holds an internal clock.</p>
+
+<p>The algorithm pseudo-code uses the following variables:</p>
+<ul>
+  <li>Outputp : the suspected list, every process that executes the algorithm has its own local list.  rappresenta la</li>
+  <li>q: loope variable to indentify the processes</li>
+  <li>∏: the set of processes</li>
+  <li>∆: is the timeout of p process for the process q</li>
+</ul>
+
+<p><img src="../images/FD-pseudocode.png" alt="Failure detector" /></p>
+
+<h4 id="task-1">Task 1:</h4>
+<p>Every process p periodically sends a message “p-is-alive” to any other process. This step can be considered a sort of “hert-beat” from a process to the others to notify its existance.</p>
+
+<h4 id="task-2">Task 2:</h4>
+<p>If a process p doesn’t receive a message “q-is-alive” from a q process belonging to the system, within the interval set by its clock, it will add q to the suspected list (if not already there).</p>
+<h4 id="task-3">Task 3:</h4>
+<p>When a process receives a message froma process that used to be suspected, it will update the list by deleting the process and increasing the related timeout.
+The following sequence diagram shows how the algorithm works in a system with 3 processes. The first process sends its heart-beat to the other processes. Processes 2 and 3 get the message and don’t add process 1 to the suspected list.</p>
+
+<p>RIFARE SCHEMA A PAGINA 8</p>
+</div>
+      <div style="clear:both;">
+        <p class="text-center">
+          <br />
+        </p>
+      </div>
+      <hr />
+      
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+    <ul class="pager">
+      
+        
+        
+        <li class="previous">
+          <a href="/portfolio/docs/consensus-algorithm/">
+            <span aria-hidden="true">&larr;</span> Previous
+          </a>
+        </li>
+      
+
+      
+        
+        
+        <li class="next">
+          <a href="/portfolio/docs/communication-scheme/">
+            Next <span aria-hidden="true">&rarr;</span>
+          </a>
+        </li>
+      
+      </ul>
+    <div class="clear"></div>
+    
+
+    </div>
+  </div>
+</div>
+
+        </div>
+    </div>
+
+    <footer class="footer">
+    <div class="container">
+
+        <p class="text-center">
+            Carmela Greco 2019 |
+            Powered by <a href="https://github.com/aksakalli/jekyll-doc-theme">Jekyll Doc Theme</a>
+        </p>
+        <!-- <p class="text-muted">Place sticky footer content here.</p> -->
+    </div>
+</footer>
+
+    <script>
+  var baseurl = '/portfolio'
+</script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="/portfolio/assets/js/bootstrap.min.js "></script>
+<script src="/portfolio/assets/js/typeahead.bundle.min.js "></script>
+
+<script src="/portfolio/assets/js/main.js "></script>
+
+</body>
+
+</html>
