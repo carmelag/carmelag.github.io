@@ -8,6 +8,8 @@ Open the application and login using your credentials.
 
 After login you will see the application:
 
+![Application](../images/mixlr-pics/mixlr-1.png)
+
 
 Broadcast title, broadcast information (on/off air), time of the streaming, start/stop button, your account's plan.
 
