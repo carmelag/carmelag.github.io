@@ -3,4 +3,5 @@
   permalink: /docs/mixlr-audiolink-plugin/
 ---
 
-Andate sulla seconda colonna “Any input” e scegliete tra le opzioni del dropdown menu in basso “Mixlr AudioLink”. Vi sarà chiesto di installarlo. Se viene mostrato un messaggio che vi informa che il pacchetto risulta provenire da “uno sviluppatore non identificato”, ignorate questo messaggio ed andate avanti con l’installazione, “Apri comunque”. (In caso di ulteriori problemi con questo passaggio contattatemi.)
+Go to the second column **“Any input”** and choose among the options in the dropdown menu **“Mixlr AudioLink”** you will be asked to install it.
+If you get a message that informs you about the package coming from an _"unidentified developer"_, please ignore it and go ahead with the installation by clicking on "Open Anyway".

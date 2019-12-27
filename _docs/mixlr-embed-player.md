@@ -2,18 +2,17 @@
   title: Skype setup
   permalink: /docs/mixlr-embed-player/
 ---
-Una volta pubblicato il player avrà questo aspetto:
-Trasmissione off air:
+Once you have published the web player, it will appear in this way:
+
+**Off air streaming:**
 
 
 
-Trasmissione on air:
+**On air streaming:**
 
 
 
-
-Alla fine di ogni broadcast l’audio viene salvato automaticamente e viene richiesto se lo si vuole vedere subito o no.
-Se si sceglie di vedere le registrazioni si aprirà questa schermata
-
+At the end of each broadcast, the audio streaming will be automatically saved and you will be asked if you want to access it right awat.
+If you choose to see the recording, you will see the following:
 
 

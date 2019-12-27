@@ -2,4 +2,4 @@
   title: Broadcast start/stop
   permalink: /docs/mixlr-start-stop/
 ---
-Per avviare a fermare la diretta audio basterà premere sul bottone start/stop.
+To start/stop the audio streaming just click on the start/stop button.
