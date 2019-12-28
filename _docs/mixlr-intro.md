@@ -1,5 +1,5 @@
 ---
-  title: Mixlr - How to broadcast a live Skype call
+  title: Introduction: How to broadcast a live Skype call using Mixlr
   permalink: /docs/mixlr-intro/
 ---
 
