@@ -1,5 +1,5 @@
 ---
-  title: Skype setup
+  title: Mixlr Embed player
   permalink: /docs/mixlr-embed-player/
 ---
 Once you have published the web player, it will appear in this way:
