@@ -20,3 +20,6 @@ If you choose to see the recording, you will see the following:
 
 You can also get to this page through the "Recordings" menu.
 
+
+![Recordings menu](../images/mixlr-pics/mixlr-10.png)
+
