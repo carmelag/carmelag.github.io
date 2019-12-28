@@ -3,12 +3,18 @@
   permalink: /docs/mixlr-app-install/
 ---
 Go to [Download section](https://mixlr.com/download/) to download Mixlr application for Mac OS.
+
+![Download](../images/mixlr-pics/mixlr-1.png)
+
 Download and install the dmg package.
 Open the application and login using your credentials.
 
+![Login](../images/mixlr-pics/mixlr-2.png)
+
 After login you will see the application:
 
-![Application](../images/mixlr-pics/mixlr-1.png)
+
+![Application](../images/mixlr-pics/mixlr-3.png)
 
 
 Broadcast title, broadcast information (on/off air), time of the streaming, start/stop button, your account's plan.
