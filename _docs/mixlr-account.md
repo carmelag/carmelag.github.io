@@ -3,5 +3,5 @@
   permalink: /docs/mixlr-account/
 ---
 
-su http://mixlr.com/
-Alla fine della registrazione eseguite l’accesso sullo stesso sito.
+Before starting you should create an account on [Mixlr website](http://mixlr.com/).
+Once you have registered, login to the website.

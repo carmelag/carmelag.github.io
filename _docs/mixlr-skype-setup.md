@@ -2,12 +2,12 @@
   title: Skype setup
   permalink: /docs/mixlr-skype-setup/
 ---
-Aprite l’applicazione Skype e cercate tra le impostazioni la voce “Audio e video”
-Nella sezione “Altoparlanti” scegliere dal dropdown menu la voce “AudioLink”
+Open Skype application on your computer and look for the setting item “Audio and video”
+Within the "Speaker" section, choose on the dropdown menu the "AudioLink" item.
 
-https://jmp.sh/TdifXRt
+![AudioLink Skype setup](../images/mixlr-pics/mixlr-12.png)
 
-Da adesso in poi se effettuerete una chiamata su Skype non potrete sentire il vostro interlocutore, perchè l’audio viene “catturato” da Mixlr.
-(Per ricominciare a utilizzare normalmente Skype, reimpostate la voce altoparlanti su “Built-in output”)
+From now on, if you call someone on Skype, you cannot hear his/her voice, because the audio is "caught" by Mixlr using AudioLink. 
+(If you want to revert Skype to normal use, set speakers setting to "Build-in output")
 
-Le operazioni discusse finora devono essere eseguite una sola volta, quando si esegue il primo setup di Mixlr.
+The setting procedure discussed so far, should be performed only once, during the first Mixlr setup.

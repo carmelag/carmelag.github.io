@@ -2,4 +2,6 @@
   title: Broadcast start/stop
   permalink: /docs/mixlr-start-stop/
 ---
-Per avviare a fermare la diretta audio basterà premere sul bottone start/stop.
+To start/stop the audio streaming just click on the start/stop button.
+
+![AudioLink Skype setup](../images/mixlr-pics/mixlr-13.png)

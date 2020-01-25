@@ -2,23 +2,28 @@
   title: Mixlr desktop application installation (Mac OS)
   permalink: /docs/mixlr-app-install/
 ---
-Andate sulla sezione download https://mixlr.com/download/ e scaricate l’applicazione per Mac OS.
+Go to [Download section](https://mixlr.com/download/) to download Mixlr application for Mac OS.
 
 
-Installate il pacchetto dmg scaricato.
-Aprite l’applicazione ed eseguite l’accesso, con le credenziali dell’account precedentemente creato su mixlr.com
-
-Dopo l’accesso l’applicazione avrà il seguente aspetto:
-
-Campo titolo del broadcast, informazioni sul broadcast (on/off air), tempo della trasmissione, pulsante di start/stop, piano scelto per il proprio account.
-
-Colonne audio:
-proprio microfono
-input esterno (nel vostro caso Skype)
-playlist (per ospitare brani musicali)
-
-Sezione social:
-Info sugli ascoltatori della diretta e pulsanti social per condividere la diretta.
+![Download](../images/mixlr-pics/mixlr-1.png)
 
 
+Download and install the dmg package. Open the application and login using your credentials.
+
+![Login](../images/mixlr-pics/mixlr-2.png)
+
+This is how the application looks:
+
+![Application](../images/mixlr-pics/mixlr-3.png)
+
+1. __Information section:__
+Broadcast title, broadcast information (on/off air), time of the streaming, start/stop button, your account's plan.
+
+2. __Audio columns:__
+- your microphone
+- external input (Skype in this case)
+- playlist (to stream music)
+
+3. __Social section:__
+Information about the people who are listen to the streaming and social buttions to share the streaming. 
 

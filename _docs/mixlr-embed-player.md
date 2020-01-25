@@ -1,19 +1,25 @@
 ---
-  title: Skype setup
+  title: Mixlr Embed player
   permalink: /docs/mixlr-embed-player/
 ---
-Una volta pubblicato il player avrà questo aspetto:
-Trasmissione off air:
+Once you have published the web player, it will appear in this way:
+
+**Off air streaming:**
+
+![Off air](../images/mixlr-pics/mixlr-7.png)
 
 
+**On air streaming:**
 
-Trasmissione on air:
+![On air](../images/mixlr-pics/mixlr-8.png)
+
+At the end of each broadcast, the audio streaming will be automatically saved and you will be asked if you want to access it right away.
+If you choose to see the recording, you will see the following:
+
+![Recordings](../images/mixlr-pics/mixlr-9.png)
+
+You can also get to this page through the "Recordings" menu.
 
 
-
-
-Alla fine di ogni broadcast l’audio viene salvato automaticamente e viene richiesto se lo si vuole vedere subito o no.
-Se si sceglie di vedere le registrazioni si aprirà questa schermata
-
-
+![Recordings menu](../images/mixlr-pics/mixlr-10.png)
 

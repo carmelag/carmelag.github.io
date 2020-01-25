@@ -2,10 +2,10 @@
   title: Mixlr Live Page to listen to the broadcast
   permalink: /docs/mixlr-live-page/
 ---
-È possibile ascoltare la diretta anche sulla pagina dedicata sulla piattaforma Mixlr
-Il link ha il formato http://mixlr.com/nome_utente 
-Questo è un esempio:
+You can listen to the streaming on the dedicated web page on Mixlr platform. 
+The link has the following format: **http://mixlr.com/username**
+Please replace _username_ with your username.
 
+![Live page](../images/mixlr-pics/mixlr-9.png)
 
-
-in questa pagina gli ascoltatori possono interagire con la diretta tramite una chat.
+In this page, people who listen to the streaming can interact with you by a dedicated chat.

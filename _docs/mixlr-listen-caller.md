@@ -2,16 +2,17 @@
   title: Mixlr setup to listen to Skype caller
   permalink: /docs/mixlr-listen-caller/
 ---
-Per ascoltare il vostro interlocutore dovete abilitare il monitoring. Andate sull’applicazione Mixlr e in alto a sinistra aprite il menu Monitoring.
-Aprite il sottomenu “Internal speakers/headphone”s e selezionate: “Channel 1 channel 2”
-Dopo di che sul menu principale di Monitoring spuntate la voce “Any Input”
+To listen to your interlocutor, you should enable the "monitoring".
+On the Mixlr application open the Monitorin menu on top left corner.
+Open the sub-menu **"Internal speakers/headphones"** and select **“Channel 1 channel 2”**
+After that, on the main Monitoring menu check the item "Any Input".
 
+![Setup](../images/mixlr-pics/mixlr-4.png)
 
+You will listen your interlocutor, only if the headphones icon in the second column (_Any input_) is red. Indeed by selecting this icon you can switch on/switch ogg the monitoring for the Skype input. That means: listen or not your interlocutor.
 
-Sentirete il vostro interlocutore solo se l’icona con le cuffie in colonna due (Any input) è rossa. Infatti selezionando o deselezionando questa icona è possibile spegnere o accendere il monitoring per il nostro input proveniente da Skype, vale a dire non ascoltare/ascoltare il nostro interlocutore.
+![Setup](../images/mixlr-pics/mixlr-5.png)
 
-
-
-Durante l’utilizzo di Mixlr vi suggeriamo di utilizzare delle buone cuffie, in modo da non avere ritorno dovuto alle casse interne del computer.
-La regolazione dei volumi deve avvenire all’interno dello stesso Mixlr, tramite le barre dei volumi presenti per ogni colonna. Suggeriamo di impostare il volume ai livelli raccomandati (a livello dei trattini bianchi), per evitare di avere troppi disturbi.
+When using Mixlr, we suggest to use headphones, so that you won't hear the voice back from the computer speakers.
+Volumes regolation can be performed within Mixlr. You can change the volume in each column. Recommended volumes are suggested by white lines and they allows to avoid most of disturbs.
 
