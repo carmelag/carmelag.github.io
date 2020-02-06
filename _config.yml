@@ -6,7 +6,7 @@ description: >
 lang: en-US
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: carmelag.github.io
+url: carmelagreco.dev
 git_address: https://github.com/carmelag/carmelag.github.io
 
 # theme options from https://bootswatch.com/3/
