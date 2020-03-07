@@ -1,6 +1,7 @@
 ---
   title: Mixlr Live Page to listen to the broadcast
   permalink: /docs/mixlr-live-page/
+  author: 'Carmela Greco'
 ---
 You can listen to the streaming on the dedicated web page on Mixlr platform. 
 The link has the following format: **http://mixlr.com/username**

@@ -1,6 +1,7 @@
 ---
 title: Introduction to Consensus Problem
 permalink: /docs/introduction-to-consensus/
+author: 'Carmela Greco'
 ---
 
 ![Consensus schema](../images/consensus-1.png)

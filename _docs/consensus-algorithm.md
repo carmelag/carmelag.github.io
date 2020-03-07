@@ -1,6 +1,7 @@
 ---
 title: Consensus Algorithm
 permalink: /docs/consensus-algorithm/
+author: 'Carmela Greco'
 ---
 
 There are different types of consensus implementations. They are different according to the communication model(synchronous or asynchronous) and to the failure detection they use.

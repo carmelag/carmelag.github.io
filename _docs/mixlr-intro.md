@@ -1,6 +1,7 @@
 ---
   title: Introduction: How to broadcast a live Skype call using Mixlr
   permalink: /docs/mixlr-intro/
+  author: 'Carmela Greco'
 ---
 
 This guide explains how to broadcast a live Skype call using [Mixlr](http://mixlr.com/). 

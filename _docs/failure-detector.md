@@ -1,6 +1,7 @@
 ---
 title: Failure detector
 permalink: /docs/failure-detector/
+author: 'Carmela Greco'
 ---
 
 The Consensu Problem, within an asynchonous system, needs a Failure Detection system, that understands if a process failed, or if it was simply slower than usual to reply. 

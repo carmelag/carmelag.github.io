@@ -1,6 +1,7 @@
 ---
 title: Fault detection
 permalink: /docs/fault-detection/
+author: 'Carmela Greco'
 ---
 
 Fault Detection

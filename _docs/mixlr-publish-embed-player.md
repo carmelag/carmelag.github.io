@@ -1,6 +1,7 @@
 ---
   title: Mixlr Publish Embed player
   permalink: /docs/mixlr-publish-embed-player/
+  author: 'Carmela Greco'
 ---
 To include the Mixlr player within your website, go to the [profile page](http://mixlr.com/settings/profile/)on Mixlr website.
 oPer pubblicare un post contenente il player per ascoltare la diretta.

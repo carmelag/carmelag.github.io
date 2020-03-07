@@ -1,6 +1,7 @@
 ---
   title: Mixlr desktop application installation (Mac OS)
   permalink: /docs/mixlr-app-install/
+  author: 'Carmela Greco'
 ---
 Go to [Download section](https://mixlr.com/download/) to download Mixlr application for Mac OS.
 

@@ -2,6 +2,7 @@
 title: Introduction
 permalink: /docs/home/
 redirect_from: /docs/index.html
+author: 'Carmela Greco'
 ---
 
 ## Documentation samples

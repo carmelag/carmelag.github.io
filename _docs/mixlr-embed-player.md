@@ -1,6 +1,7 @@
 ---
   title: Mixlr Embed player
   permalink: /docs/mixlr-embed-player/
+  author: 'Carmela Greco'
 ---
 Once you have published the web player, it will appear in this way:
 

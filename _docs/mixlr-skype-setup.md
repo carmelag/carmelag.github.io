@@ -1,6 +1,7 @@
 ---
   title: Skype setup
   permalink: /docs/mixlr-skype-setup/
+  author: 'Carmela Greco'
 ---
 Open Skype application on your computer and look for the setting item “Audio and video”
 Within the "Speaker" section, choose on the dropdown menu the "AudioLink" item.

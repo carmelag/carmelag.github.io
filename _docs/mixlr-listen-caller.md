@@ -1,6 +1,7 @@
 ---
   title: Mixlr setup to listen to Skype caller
   permalink: /docs/mixlr-listen-caller/
+  author: 'Carmela Greco'
 ---
 To listen to your interlocutor, you should enable the "monitoring".
 On the Mixlr application open the Monitorin menu on top left corner.
