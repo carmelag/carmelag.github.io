@@ -1,6 +1,7 @@
 ---
 title: Communication scheme
 permalink: /docs/communication-scheme/
+author: 'Carmela Greco'
 ---
 
 __JMS, Java Messaging Service__
