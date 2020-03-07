@@ -7,6 +7,6 @@ I used the [Jekyll doc theme](https://aksakalli.github.io/jekyll-doc-theme/) and
 
 There are *3 main sections*:
 1. Technical writing samples
-2. Contributions to open-source projects documentation
-3. List of articles I published on Medium
+2. List of articles I published on Medium
+3. My activity on GitHub
 
