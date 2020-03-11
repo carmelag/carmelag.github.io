@@ -1,5 +1,5 @@
 ---
-  title: Using Mixlr and Skype
+  title: Introduction
   permalink: /docs/mixlr-intro/
   author: 'Carmela Greco'
 ---
