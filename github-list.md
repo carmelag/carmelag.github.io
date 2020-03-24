@@ -1,10 +1,10 @@
 ---
 layout: list
-title:  "Github List"
+title:  "GitHub List"
 author: Carmela
 ---
 
-My __profile__ on [github](https://github.com/carmelag)
+My __profile__ on [GitHub](https://github.com/carmelag)
 
 #### Contributions to open-source projects:
 - [Docs *Best resume ever*](https://github.com/salomonelli/best-resume-ever)
